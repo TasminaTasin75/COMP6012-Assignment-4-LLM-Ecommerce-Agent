@@ -1,0 +1,9 @@
+confident_score,query,precision,recall
+0.55,a real mobile phone,0.97,1.0
+0.55,a person avatar icon,1.0,1.0
+0.55,a phone call icon,0.9,1.0
+0.55,a speech bubble icon,0.95,1.0
+0.55,someone holding a smartphone,1.0,0.71
+0.55,a user profile picture,1.0,0.97
+0.55,calling or dialing symbol,1.0,0.97
+0.55,chat or messaging symbol,1.0,1.0
