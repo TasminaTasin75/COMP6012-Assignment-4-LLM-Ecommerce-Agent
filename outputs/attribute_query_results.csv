@@ -1,0 +1,11 @@
+query,method,matched,precision,recall
+a black phone,group labels only,68,0.31,1.0
+a black phone,full method,39,0.46,0.86
+a white phone,group labels only,68,0.12,1.0
+a white phone,full method,47,0.17,1.0
+a red phone,group labels only,68,0.04,1.0
+a red phone,full method,14,0.21,1.0
+a phone held in a hand,group labels only,70,0.14,1.0
+a phone held in a hand,full method,44,0.2,0.9
+a white phone held in a hand,group labels only,68,0.04,1.0
+a white phone held in a hand,full method,42,0.07,1.0
